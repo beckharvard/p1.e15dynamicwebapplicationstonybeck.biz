@@ -1,0 +1,40 @@
+body {
+
+  
+  font-size:           80%;
+  font-family:         Avenir, Helvetica, Arial, sans-serif;
+  line-height:         1.6em;
+  padding-left:        90px;
+  margin-right:        90px;
+  /*Kerning*/
+  letter-spacing:      1px 
+ 
+}
+
+a {
+  text-decoration:	none;
+}
+
+h1, h2, h3 {
+  color:               #A51C30;
+ 
+  
+}
+
+h1 {
+  font-size:           1.8em;
+ 
+  letter-spacing: 	-1px; /*Kerning*/
+}
+
+h2 {
+  font-size:           1.4em;
+}
+
+hr {
+  border: 0;
+  width: 100%;
+  color: #A51C30;
+  background-color: #A51C30;
+  height: 2px;
+}
